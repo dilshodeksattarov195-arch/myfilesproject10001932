@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerfncrypt",
+        "uuid": 3265080,
+        "checksum": "r9ia2w"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
